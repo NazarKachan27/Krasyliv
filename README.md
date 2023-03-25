@@ -55,8 +55,8 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFj8VsDRtctxihwv_l0TMNPnE-bwhkUwTduw&usqp=CAU"  width="300px"  height="220px"></h3>
     </main>
     <footer style="background-color:grey">
-        <a style="color:white;" href="https://www.instagram.com/krasylivgram/"><h4>Наш інстаграм</h4></a>
-        <a style="color:white" href="https://xn----ctblkjrecsijc1xf.cybo.com/UA/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%BB%D1%96%D0%B2/%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B8/"><h4>Ресторани в нашому місті</h4></a>
+        <a style="color:white;" href="https://www.instagram.com/krasylivgram/">Наш інстаграм</a>
+        <a style="color:white" href="https://xn----ctblkjrecsijc1xf.cybo.com/UA/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%BB%D1%96%D0%B2/%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B8/">Ресторани в нашому місті</a>
     </footer>
 </body>
 </html>
