@@ -1,5 +1,6 @@
 # Krasyliv
 <html>
+  <tittle>Красилів</tittle>
 <body style="background-color:lightgrey;color:grey;">
 <header style="background-color:grey">
 <img src="https://credo.pro/wp-content/uploads/2019/05/%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%BB%D1%96%D0%B2.jpg5_.jpg" height="80px">
